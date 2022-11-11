@@ -1,0 +1,6 @@
+{
+    "values": [
+        "trigger:tick/check_players",
+        "trigger:tick/check_items"
+    ]
+}
